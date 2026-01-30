@@ -27,8 +27,8 @@ Automatizar a criação de documentos oficiais, reduzindo trabalho manual, retra
 
 ## 📂 Funcionamento Geral
 
-- Lê os nomes da coluna **A** da aba `nomes`
-- Cria uma cópia do documento modelo
+- Lê os nomes da coluna **A** da aba `nomes` da planilha
+- Cria uma cópia do documento modelo (docs)
 - Substitui a tag `{{NOME}}` pelo nome da planilha
 - Converte o documento em **PDF**
 - Salva o PDF na pasta configurada no Drive
@@ -51,7 +51,7 @@ Este repositório possui um **MANUAL completo**, contendo:
 
 ## 🏛️ Contexto de Aplicação
 
-Projeto desenvolvido no âmbito da **PROEX – Pró-Reitoria de Extensão**, com aplicação inicial no **Prêmio Maria Filina de Mérito Extensionista**.
+Projeto desenvolvido no âmbito da **PROEX - Pró-Reitoria de Extensão**, com aplicação inicial no **Prêmio Maria Filina de Mérito Extensionista**.
 
 ---
 
