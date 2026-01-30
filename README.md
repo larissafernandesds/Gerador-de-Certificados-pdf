@@ -57,9 +57,7 @@ Projeto desenvolvido no âmbito da **PROEX - Pró-Reitoria de Extensão**, com a
 
 ## 👩‍💻 Autoria
 
-**Larissa Fernandes da Silva**  
-Bolsista PROEX - UFES  
-Ano: **2026**
+**Larissa Fernandes da Silva**   
 
 Supervisão:  
 **Jorge Luiz dos Santos Junior**  
