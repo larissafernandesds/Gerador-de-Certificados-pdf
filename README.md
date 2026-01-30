@@ -6,7 +6,7 @@
 
 Sistema de **automação para geração em massa de declarações e certificados em PDF**, utilizando **Google Apps Script**, integrado ao **Google Planilhas, Documentos e Drive**.
 
-A partir de uma lista de nomes em uma planilha e de um documento modelo com a tag `{{NOME}}`, o script gera automaticamente um PDF individual para cada pessoa.
+A partir de uma lista de nomes em uma planilha e de um documento modelo com a tag `{{NOME}}`, o script gera automaticamente um PDF individual para cada pessoa, em uma pasta específica.
 
 ---
 
